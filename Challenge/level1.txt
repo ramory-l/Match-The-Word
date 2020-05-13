@@ -1,0 +1,8 @@
+France|Paris
+Fish|Salmon
+Apple|iPhone
+iOS|Swift
+Paper|Book
+C++|Pain
+Steam|Gabe
+Windows|Bill
